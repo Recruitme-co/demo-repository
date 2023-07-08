@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ddd;
+    font-family: sans-serif;
+}
+
+section {
+    color:#fff;
+    padding: 20px;
+    margin: 0px 0px 5px 0px;
+}
+.section1{
+    background-color: cornflowerblue;
+}
+.section2{
+    background-color: rgb(92, 4, 255);
+}
+.section3{
+    background-color: rgb(244, 105, 186);
+}
+section h1, h2, h3 {
+    margin: 10px 0px;
+}
+p {
+    font-size: 12px;
+}
